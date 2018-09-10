@@ -6,7 +6,7 @@ INSTITUTE***
 # Identifying the author behind New York Time’s op-ed from *Inside the Trump White House*, using data science
 
 |                                                |              |
-| ---------------------------------------------- | ------------ |
+| -------------------------- -------------------- | ------------ |
 | *BY: [MICHAEL W. KEARNEY](https://mikewk.com)* | *2018-09-06* |
 
 Yesterday the *New York Times* published an [opinion
@@ -32,7 +32,6 @@ TREASON?
 
 </blockquote>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote align="center" class="twitter-tweet" data-lang="en">
 
@@ -183,46 +182,4 @@ they strive for monolithic communication and, as a consequence, there
 are a handful of near matches in any sample of texts composed by people
 working in the White House.
 
-<style>
 
-blockquote.twitter-tweet {
-  font-size: 12px;
-  font-weight: bold;
-  line-height: 16px;
-  border-color: #eee #ddd #bbb;
-  border-radius: 5px;
-  border-style: solid;
-  border-width: 1px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-  margin: 10px auto;
-  padding: 0 16px 16px 16px;
-  max-width: 468px;
-}
-
-blockquote.twitter-tweet p {
-  font-size: 16px;
-  font-weight: normal;
-  line-height: 20px;
-}
-
-blockquote.twitter-tweet a {
-  color: inherit;
-  font-weight: normal;
-  text-decoration: none;
-  outline: 0 none;
-}
-
-blockquote.twitter-tweet a:hover,
-blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-}
-
-td {width: 100%;}
-
-table th, table td, table tr, table {border: 0}
-
-.twitter-widget-0 {
-margin-left: auto;
-margin-right: auto;
-}
-</style>
